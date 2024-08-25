@@ -7,4 +7,4 @@
   - Thrust: 250kN → 450kN
   - Isp: 90-350s → 185-335s
 - Removed multi-nozzle variant from the Poodle and single-nozzle variant from the Labrador, including Restock support
-- Added support for Restock
+- Added support for VABOrganizer
