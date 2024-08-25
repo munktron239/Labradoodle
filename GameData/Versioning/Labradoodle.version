@@ -1,0 +1,27 @@
+{
+	"NAME":"Labradoodle",
+	"DOWNLOAD":
+	"https://github.com/CharleRoger/Labradoodle/releases",
+	"URL":
+	"https://raw.githubusercontent.com/CharleRoger/Labradoodle/main/GameData/Labradoodle/Versioning/Labradoodle.version",
+	"CHANGE_LOG_URL":"https://raw.githubusercontent.com/CharleRoger/Labradoodle/main/README.md",
+	"GITHUB":
+	{
+		"USERNAME":"CharleRoger",
+		"REPOSITORY":"https://github.com/CharleRoger/Labradoodle",
+		"ALLOW_PRE_RELEASE":true
+	},
+	"VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":0,
+		"PATCH":0,
+		"BUILD":0
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":12,
+		"PATCH":5
+	}
+}
