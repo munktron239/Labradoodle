@@ -1,6 +1,10 @@
+# 1.0.2
+- Rebalanced RE-L20 "Labrador" stats:
+  - Mass: 2.5t → 1.75t
+  - Thrust: 450kN → 300kN
+  - Isp: 185-335s → 270-320s
 # 1.0.1
 - Minor tweak to patch ordering to improve compatibility, particularly with Immersive Chemical Propulsion
-
 # 1.0.0
 - Initial release
 - Added RE-L20 "Labrador" Liquid Fuel Engine, copied from RE-L10 "Poodle" Liquid Fuel Engine, with the following changes:
